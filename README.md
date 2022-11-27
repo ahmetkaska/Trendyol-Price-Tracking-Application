@@ -1,3 +1,3 @@
-#StudentRegisterTree
+#Trendyol Price Tracking Application
 
-Student Registration Application was developed using Tree with Java.
+A program was developed by pulling the data from the trendyol site with Python and providing an e-mail alert when the product is discounted.
