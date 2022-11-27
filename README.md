@@ -1,2 +1,3 @@
-# TrendyolFiyatTakipUygulamasi
- Python ile trendyol sitesinden verileri cekerek, urune indirim geldigi zaman mail ile uyari saglayan bir program yapildi.
+#StudentRegisterTree
+
+Student Registration Application was developed using Tree with Java.
